@@ -2,7 +2,7 @@
 Python 3.11.2     Pygame 2.4.0
 
 UI:
-    Main Menu: Load map, Create map, Create tileset, Map Editor
+    Main Menu: Load map, Create map, Create tileset
     Load map: Dropdown of tileset configs, Dropdown of available .map files
     Create map: Dropdown of tileset configs, info fields for needed things to create a .map file (hex characters, map dimensions, etc.)
     Create tileset: TILESIZE field, tile .img path field with a + button to add more, - button on eat path that deletes the path
